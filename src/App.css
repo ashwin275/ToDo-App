@@ -89,3 +89,10 @@ h2 {
   text-decoration: line-through;
   opacity: 0.5;
 }
+.completed{
+  margin-top:1rem;
+  color:rgb(232, 235, 185);
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+}
